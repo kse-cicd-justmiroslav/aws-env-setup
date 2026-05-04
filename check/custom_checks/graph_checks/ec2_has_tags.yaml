@@ -1,4 +1,4 @@
-﻿metadata:
+metadata:
   id: "CUSTOM_GRAPH_5"
   name: "Ensure EC2 instance has Name tag"
   category: "GENERAL_SECURITY"
