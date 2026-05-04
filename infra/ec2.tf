@@ -107,3 +107,4 @@ resource "aws_instance" "web" {
     Name = "${local.prefix}-web"
   }
 }
+
