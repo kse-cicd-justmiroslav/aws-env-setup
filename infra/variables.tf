@@ -16,3 +16,5 @@ variable "contact" {
   description = "Contact name for tagging resources"
   default     = "kostia.shiian@gmail.com"
 }
+
+
